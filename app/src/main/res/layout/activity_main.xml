@@ -13,8 +13,8 @@
         android:layout_height="wrap_content"
         android:hint="@string/cost_of_service"
         android:inputType="numberDecimal"
-        app:layout_constrainStart_toStartOf="parent"
-        app:layout_constrainTop_toTopOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/service_question"
